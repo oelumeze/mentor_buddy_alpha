@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/oelumeze/Documents/Ionic/MentorApp_beta_backup/platforms/android/build/intermediates/exploded-aar/org.xwalk/xwalk_core_library/19.49.514.4/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="26319d6f0aa01254bddb25645f5ddf7a6bb5b18e">
+        <dex dex="/home/oelumeze/Documents/Ionic/MentorApp_beta_backup/platforms/android/build/intermediates/pre-dexed/armv7/debug/org.xwalk-xwalk_core_library-19.49.514.4_170aa4010f365b997e7511f408ae8935ca6520b9.jar" />
+    </item>
+    <item
+        jar="/home/oelumeze/Documents/Ionic/MentorApp_beta_backup/platforms/android/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0-alpha2/jars/libs/internal_impl-24.0.0-alpha2.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="e460bc069dfd21d22770cf2a2370c9021b9c98a2">
+        <dex dex="/home/oelumeze/Documents/Ionic/MentorApp_beta_backup/platforms/android/build/intermediates/pre-dexed/armv7/debug/internal_impl-24.0.0-alpha2_b975de9e25a85dd37c1acd6f3d666c817e2d030d.jar" />
+    </item>
+    <item
+        jar="/home/oelumeze/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/24.0.0-alpha2/support-annotations-24.0.0-alpha2.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="8071e1e6cd07e9253720313d6c14286a7ee424e0">
+        <dex dex="/home/oelumeze/Documents/Ionic/MentorApp_beta_backup/platforms/android/build/intermediates/pre-dexed/armv7/debug/support-annotations-24.0.0-alpha2_8dd7de59564aba2c1d9e13292140f55bf708e4be.jar" />
+    </item>
+    <item
+        jar="/home/oelumeze/Documents/Ionic/MentorApp_beta_backup/platforms/android/build/intermediates/exploded-aar/android/CordovaLib/unspecified/debug/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="7f9e1910b1717d2093c67de90718b88c005d4d78">
+        <dex dex="/home/oelumeze/Documents/Ionic/MentorApp_beta_backup/platforms/android/build/intermediates/pre-dexed/debug/CordovaLib-unspecified-debug_c260f18d203d73d54600641a7983e5e4c23b5f15.jar" />
+    </item>
+    <item
+        jar="/home/oelumeze/Documents/Ionic/MentorApp_beta_backup/platforms/android/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0-alpha2/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="32ab8bede8cd600f25a5bb3fe15068c81c8910dc">
+        <dex dex="/home/oelumeze/Documents/Ionic/MentorApp_beta_backup/platforms/android/build/intermediates/pre-dexed/armv7/debug/com.android.support-support-v4-24.0.0-alpha2_53ad3ba6aa11b9d79b98bd49bc39e06414e686ac.jar" />
+    </item>
+
+</items>
